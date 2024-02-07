@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,p as s,i as d,e as c}from"./app-_DAdun8m.js";const _={},n=e=>(s("data-v-6d50d8be"),e=e(),d(),e),i=n(()=>c("div",{class:"g-container"},[c("p",null,"Magic Text")],-1)),p=[i];function r(e,l){return o(),a("div",null,p)}const u=t(_,[["render",r],["__scopeId","data-v-6d50d8be"],["__file","MagicText.vue"]]);export{u as default};

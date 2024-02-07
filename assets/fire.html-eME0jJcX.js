@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-331850da","path":"/docs/css/filter/fire.html","title":"火焰","lang":"en-US","frontmatter":{"title":"火焰","date":"2020/05/29"},"headers":[],"git":{"createdTime":1707311130000,"updatedTime":1707311130000,"contributors":[{"name":"hch","email":"452862275@qq.com","commits":1}]},"filePathRelative":"docs/css/filter/fire.md"}');export{e as data};

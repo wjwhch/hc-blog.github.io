@@ -1,0 +1,1 @@
+import{_ as a,o,c,p as t,i as _,e as s}from"./app-_DAdun8m.js";const d={},n=e=>(t("data-v-14afe23a"),e=e(),_(),e),p=n(()=>s("div",{class:"box"},[s("div",{class:"goast"})],-1)),r=[p];function i(e,f){return o(),c("div",null,r)}const u=a(d,[["render",i],["__scopeId","data-v-14afe23a"],["__file","Goast.vue"]]);export{u as default};

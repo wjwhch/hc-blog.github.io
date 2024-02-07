@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-07eac922","path":"/docs/css/filter/magicText.html","title":"魔法文本","lang":"en-US","frontmatter":{"title":"魔法文本","date":"2020/05/29"},"headers":[],"git":{"createdTime":1707311130000,"updatedTime":1707311130000,"contributors":[{"name":"hch","email":"452862275@qq.com","commits":1}]},"filePathRelative":"docs/css/filter/magicText.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as o,o as c,c as a,p as t,i as d,e as s}from"./app-_DAdun8m.js";const _={},n=e=>(t("data-v-b4a123bd"),e=e(),d(),e),r=n(()=>s("div",{class:"blend"},[s("span",{class:"text"},"HELLO WORLD")],-1)),p=[r];function l(e,i){return c(),a("div",null,p)}const u=o(_,[["render",l],["__scopeId","data-v-b4a123bd"],["__file","WordBlend.vue"]]);export{u as default};

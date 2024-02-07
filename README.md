@@ -11,7 +11,7 @@ bannerBrand:
   description: 记录学习。
   tagline: 能学一点是一点
   buttons:
-    - { text: Guide, link: '/docs/js/prototype' }
+    - { text: Guide, link: '/hc-blog.github.io/docs/js/prototype' }
   # socialLinks:
   #   - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
 # blog:

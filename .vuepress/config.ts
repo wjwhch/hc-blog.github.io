@@ -5,8 +5,8 @@ import recoTheme from "vuepress-theme-reco";
 export default defineUserConfig({
   title: "羽中笔记",
   description: "learn",
+  base: "/hc-blog.github.io/",
   theme: recoTheme({
-    base: "/hc-blog.github.io/",
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
     author: "hc",
